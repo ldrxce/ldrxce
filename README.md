@@ -84,7 +84,7 @@ I regularly practice problems on **LeetCode** to strengthen my algorithmic think
 My focus is on understanding the logic behind each solution, improving efficiency, and building stronger coding fundamentals through consistent practice.
 
 ```text
-Solve → Understand → Analyze → Improve
+Understand → Solve  → Analyze → Improve
 ```
 
 I believe consistent practice and small projects are a useful way to turn theoretical knowledge into practical skills.
