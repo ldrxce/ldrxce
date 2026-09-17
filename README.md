@@ -89,6 +89,10 @@ Understand → Solve  → Analyze → Improve
 
 I believe consistent practice and small projects are a useful way to turn theoretical knowledge into practical skills.
 
+## Stats
+
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ldrxce&langs_count=4&hide_values=true&theme=dark_github"></p> 
+
 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,html,css,js,linux,git,github,netlify" /> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:1f2937&height=100&section=footer" /> </p> <p align="center"> <sub>Learning continuously. Building practically. Improving one problem at a time.</sub> </p>
